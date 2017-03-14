@@ -1,4 +1,4 @@
 # hello-world
 My hello-world repository
 
-Learning Network Automation utilizing Phython wiht Ansible as the Orchestrator.
+Learning Network Automation utilizing Phython with Ansible as the Orchestrator.
